@@ -11,5 +11,5 @@
 </style>
 
 <div class="footer">
-  <h4>Informasi kami tidak gratis</h4>
+  <h5>©2020 Copyright Muzaki News</h5>
 </div> 
