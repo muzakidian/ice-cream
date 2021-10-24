@@ -3,7 +3,7 @@
 
   <div class="container-fluid">
     <!-- Navbar Judul -->
-    <a class="navbar-brand" href="#">MUZAKI NEWS</a>
+    <a class="navbar-brand" href="#">Equizaki Es Krim</a>
 
 
     <button

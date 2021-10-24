@@ -11,5 +11,5 @@
 </style>
 
 <div class="footer">
-  <h5>©2020 Copyright Muzaki News</h5>
+  <h5>©2020 Copyright Equizaki Es Krim</h5>
 </div> 

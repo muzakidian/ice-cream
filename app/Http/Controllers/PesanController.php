@@ -51,6 +51,9 @@ class PesanController extends Controller
         $pesan->save();
         return redirect(route('makasih'))->with('successMsg','Pesanan Telah ditambah!');
     }
+    public function makasih(){
+        return view('makasih');
+    }
 
     /**
      * Display the specified resource.
@@ -97,8 +100,6 @@ class PesanController extends Controller
         //
     }
 
-    public function makasih(){
-        return view('makasih');
-    }
+
 
 }

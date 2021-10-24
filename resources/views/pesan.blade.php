@@ -4,7 +4,7 @@
 
 <h1>Halaman Pemesanan<h1>
     <form class="text-center border border-light p-5" action="{{ route('simpan') }}" method="POST">
-    <p class="h4 mb-4">Pesan Beritamu Disini!</P>
+    <p class="h4 mb-4">Pesan Es Krim kamu disini!</P>
     <div class="form-row mb-4">
 
     <!-- Nama Depan -->
@@ -25,7 +25,7 @@
   <div class="row mb-4">
   <div class="col">
      <input type="text" id="pesan"
-        class="form-control" placeholder="Berita apa?" name="pesan">
+        class="form-control" placeholder="Es Krim apa?" name="pesan">
         </div>
         </div>
 
